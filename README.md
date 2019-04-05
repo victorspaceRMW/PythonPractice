@@ -1,2 +1,2 @@
 # PythonPractice
-My code for practicing Python
+My code for practicing Python.
